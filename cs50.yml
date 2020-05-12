@@ -1,1 +1,5 @@
 lab50: true
+  - !include sum.c
+  - !include prime.c
+  - !include calc.c
+  - !include old.c
